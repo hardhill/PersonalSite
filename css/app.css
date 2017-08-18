@@ -1,0 +1,38 @@
+/*body{*/
+    /*background-image: url("../img/back.jpg");*/
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*height:100%;*/
+/*}*/
+.logo{
+    background-color: #3f3f3f;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+
+}
+.bg-topbar{
+    background-color: #5c5c5c;
+    margin: 0px;
+    padding: 0px;
+}
+.logotitle{
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    color: #d1d1d1;
+}
+.podlogo{
+    font-size: x-small;
+    text-align: center;
+    margin-top: -0.4rem;
+    margin-bottom: 0.4px;
+    color: #c1c1c1;
+}
+.mainlinks{
+    color: #cdcdcd;
+   font-family: BlinkMacSystemFont;
+}
+
